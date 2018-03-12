@@ -9,10 +9,6 @@ Then it gives latest version number, version name, next version number, and etc.
 """
 #-------------------------------------------------------------------------------
 
-__author__ = 'Takatoshi Ono [tono@dfx.co.jp]'
-__date__ = '24 May 2016'
-__modified__ = '24 May 2016'
-
 
 
 #-------------------------------------------------------------------------------
